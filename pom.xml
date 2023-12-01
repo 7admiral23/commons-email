@@ -324,6 +324,7 @@
         <powermock.version>2.0.9</powermock.version>
         <easymock.version>5.1.0</easymock.version>
 
+        <!-- Sonarcloud -->
         <sonar.organization>7admiral23</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
